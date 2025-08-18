@@ -1,3 +1,4 @@
 This is a sample text file for testing
 This is a new line in my file
 This is from development branch
+This is another line from the development branch from the local repository
