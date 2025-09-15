@@ -1,7 +1,0 @@
-creating this file to push to Git repo
-clone git repo to local
-create a file on local
-commit
-push 
-
-
